@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kyohsuke@conafie.jp"]
   spec.summary       = %q{Streeem - stream based concurrent scripting for ruby}
   spec.description   = %q{Streeem - stream based concurrent scripting for ruby. It is inspired at Streem. FYI: it's *joke* gem.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/kyohsuke/streeem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
