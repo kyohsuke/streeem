@@ -41,7 +41,7 @@ Streeem.do {|line|
 ```
 
 ```shell
-seq 100 | ruby streem.rb 
+seq 100 | ruby example.rb 
 ```
 
 ## Contributing
