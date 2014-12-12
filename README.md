@@ -4,6 +4,11 @@ It is inspired at https://github.com/matz/streem
 
 ほんとすいませんでした
 
+## Important
+
+It's *joke* gem.
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
